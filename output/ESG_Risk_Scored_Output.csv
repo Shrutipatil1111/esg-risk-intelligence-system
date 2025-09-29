@@ -1,0 +1,207 @@
+Company,Industry,City_HQ,Latitude,Longitude,Simulated_Climate_Risk_Index,Scope1_GHG_Emissions,Scope2_GHG_Emissions,Water_Consumption_Intensity,Waste_Diversion_Rate,Renewable_Energy_Percentage,Female_Leadership_Ratio,Employee_Turnover_Rate,Community_Investment_PBT_Percentage,Grievances_Resolved_Percentage,Board_Independence_Percentage,Audit_Committee_Independence_Percentage,Corruption_Incidents,Debt_To_Equity,Current_Ratio,Revenue_Growth_Percentage,News_Sentiment,Controversy_Flag,Controversy_Detail,TCFD_Disclosure_Flag,SEBI_BRSR_Flag,E_Score,S_Score,G_Score,Financial_Risk_Score,Compliance_Risk_Score,News_Sentiment_Controversy_Impact,Composite_Risk_Index,Risk_Level,Risk_Explanation
+HDFC Bank,Finance,Mumbai,19.076,72.8777,7.25,955.64,1517.59,3.19,40.14,15.14,11.74,26.65,2.0,91.24,50.82,99.4,1,0.92,1.21,0.5,-0.31,0,,1,1,0.16272344921617166,0.67534135769536,0.3667579596028757,0.5586162613095504,0.0,0.3275,40.79926948636846,Low,"HDFC Bank is classified as Low risk (CRI: 40.80).
+Demonstrates strong performance across key risk dimensions:
+  - Robust Financial Health.
+  - Strong ESG Profile (Environmental, Social, Governance).
+  - Positive or Neutral News Sentiment.
+  - Good Regulatory Compliance.
+  - Lower Exposure to Physical Climate Risks."
+Reliance Industries,Energy,Mumbai,19.076,72.8777,7.23,25523.15,80665.84,1.4,63.43,43.51,11.39,20.19,0.93,71.95,87.96,99.31,1,1.27,0.74,1.93,-0.41,0,,1,1,0.5684697886186948,0.8095119303631768,0.11385395613807571,0.6098285354819086,0.0,0.3525,47.670322957424574,Low,"Reliance Industries is classified as Low risk (CRI: 47.67).
+Demonstrates strong performance across key risk dimensions:
+  - Robust Financial Health.
+  - Strong ESG Profile (Environmental, Social, Governance).
+  - Positive or Neutral News Sentiment.
+  - Good Regulatory Compliance.
+  - Lower Exposure to Physical Climate Risks."
+Infosys,Technology,Bengaluru,12.9716,77.5946,5.51,482.64,574.29,3.05,32.04,59.75,23.49,14.88,2.82,91.82,63.06,91.41,0,2.42,3.06,17.42,0.06,0,,0,1,0.2109490748775369,0.4907794391142486,0.3065714670613594,0.2651977970438655,0.5,0.235,33.932778440168995,Low,"Infosys is classified as Low risk (CRI: 33.93).
+Demonstrates strong performance across key risk dimensions:
+  - Robust Financial Health.
+  - Strong ESG Profile (Environmental, Social, Governance).
+  - Positive or Neutral News Sentiment.
+  - Good Regulatory Compliance.
+  - Lower Exposure to Physical Climate Risks."
+Tata Motors,Automotive,Pune,18.5204,73.8567,3.03,24053.07,45539.34,1.82,30.92,17.92,31.34,24.75,2.01,97.79,76.04,98.3,0,1.75,1.63,-3.09,-0.3,0,,1,1,0.5979366255316677,0.44172083884968283,0.11109645276446875,0.6233478285415084,0.0,0.325,37.10703491374655,Low,"Tata Motors is classified as Low risk (CRI: 37.11).
+Demonstrates strong performance across key risk dimensions:
+  - Robust Financial Health.
+  - Strong ESG Profile (Environmental, Social, Governance).
+  - Positive or Neutral News Sentiment.
+  - Good Regulatory Compliance.
+  - Lower Exposure to Physical Climate Risks."
+Apollo Hospitals,Healthcare,Chennai,13.0827,80.2707,8.43,39235.33,60514.95,3.97,62.1,38.98,22.83,5.64,0.77,70.94,75.46,86.29,1,0.78,2.39,11.2,-0.48,0,,1,1,0.650996296065893,0.6465886140291427,0.4008851271553698,0.259323005846473,0.0,0.37,45.98741067743573,Low,"Apollo Hospitals is classified as Low risk (CRI: 45.99).
+Demonstrates strong performance across key risk dimensions:
+  - Robust Financial Health.
+  - Strong ESG Profile (Environmental, Social, Governance).
+  - Positive or Neutral News Sentiment.
+  - Good Regulatory Compliance.
+  - Lower Exposure to Physical Climate Risks."
+Asian Paints,Manufacturing,Mumbai,19.076,72.8777,6.71,25544.06,29659.64,2.37,87.41,26.08,13.66,13.91,2.77,78.16,75.91,80.01,0,2.22,0.72,10.32,-0.13,0,,1,1,0.4237278352314522,0.5264745431506107,0.3949674768914756,0.6652933907061923,0.0,0.2825,45.01659886793411,Low,"Asian Paints is classified as Low risk (CRI: 45.02).
+Demonstrates strong performance across key risk dimensions:
+  - Robust Financial Health.
+  - Strong ESG Profile (Environmental, Social, Governance).
+  - Positive or Neutral News Sentiment.
+  - Good Regulatory Compliance.
+  - Lower Exposure to Physical Climate Risks."
+L&T,Infrastructure,Mumbai,19.076,72.8777,7.91,24053.07,97460.39,4.83,46.37,37.32,19.03,12.12,0.59,88.29,70.11,81.03,0,1.19,2.48,15.42,0.05,0,,1,1,0.738459601640253,0.5682343646011675,0.41889857355964233,0.24551831613636474,0.0,0.2375,45.11156213719874,Low,"L&T is classified as Low risk (CRI: 45.11).
+Demonstrates strong performance across key risk dimensions:
+  - Robust Financial Health.
+  - Strong ESG Profile (Environmental, Social, Governance).
+  - Positive or Neutral News Sentiment.
+  - Good Regulatory Compliance.
+  - Lower Exposure to Physical Climate Risks."
+Wipro,Technology,Bengaluru,12.9716,77.5946,5.61,523.27,1970.16,2.29,83.07,56.89,14.52,17.7,2.24,95.75,63.04,84.4,1,1.52,1.33,14.36,-0.52,0,,1,0,0.13403066310764059,0.7028084449922339,0.5151663744904278,0.4422080795973974,0.5,0.38,45.164345044492,Low,"Wipro is classified as Low risk (CRI: 45.16).
+Demonstrates strong performance across key risk dimensions:
+  - Robust Financial Health.
+  - Strong ESG Profile (Environmental, Social, Governance).
+  - Positive or Neutral News Sentiment.
+  - Good Regulatory Compliance.
+  - Lower Exposure to Physical Climate Risks."
+Maruti Suzuki,Automotive,Gurgaon,28.4595,77.0266,7.35,44480.27,33214.75,3.47,83.12,41.09,25.89,11.05,0.73,96.92,86.02,92.66,0,1.06,2.66,20.4,0.57,0,,0,0,0.5340383099450057,0.3890543413878014,0.13002516499909347,0.1531642111976336,1.0,0.10750000000000001,38.64838040298921,Low,"Maruti Suzuki is classified as Low risk (CRI: 38.65).
+Demonstrates strong performance across key risk dimensions:
+  - Robust Financial Health.
+  - Strong ESG Profile (Environmental, Social, Governance).
+  - Positive or Neutral News Sentiment.
+  - Good Regulatory Compliance.
+  - Lower Exposure to Physical Climate Risks."
+DMart (Avenue Supermarts),Retail,Mumbai,19.076,72.8777,7.66,21752.72,94612.01,4.88,48.45,24.85,24.57,16.21,2.99,75.28,50.72,89.88,2,1.94,1.56,11.28,0.01,0,,1,1,0.7572423585951055,0.4595882586525979,0.6147350753970071,0.5029291797567113,0.0,0.2475,52.19861516020556,Medium,"DMart (Avenue Supermarts) is classified as Medium risk (CRI: 52.20).
+Identified areas for improvement:
+  - Moderate Financial Vulnerability.
+  - Moderate Environmental Performance.
+  - Moderate Governance Gaps.
+  - Moderate Physical Climate Risk (Mumbai)."
+Power Grid Corp,Energy,Gurgaon,28.4595,77.0266,6.37,20753.53,68059.3,3.51,86.17,19.96,24.98,19.3,2.42,71.31,89.78,89.4,1,2.33,1.74,-4.54,0.69,0,,0,0,0.542760181410981,0.4641687880410945,0.2547189272821042,0.6816185410334346,1.0,0.07750000000000001,52.3340095671604,Medium,"Power Grid Corp is classified as Medium risk (CRI: 52.33).
+Identified areas for improvement:
+  - Moderate Financial Vulnerability.
+  - Moderate Environmental Performance.
+  - Partial regulatory disclosure/compliance concerns.
+  - Moderate Physical Climate Risk (Gurgaon)."
+Godrej Consumer Products,FMCG,Mumbai,19.076,72.8777,8.2,385.23,505.09,3.01,90.85,50.24,27.1,7.43,2.04,99.7,55.6,90.37,1,1.15,3.08,-0.9,0.33,0,,1,1,0.14868030210373404,0.24588327816741912,0.47374063330766736,0.32507160440520333,0.0,0.16749999999999998,29.474389053407418,Low,"Godrej Consumer Products is classified as Low risk (CRI: 29.47).
+Demonstrates strong performance across key risk dimensions:
+  - Robust Financial Health.
+  - Strong ESG Profile (Environmental, Social, Governance).
+  - Positive or Neutral News Sentiment.
+  - Good Regulatory Compliance.
+  - Lower Exposure to Physical Climate Risks."
+Bharti Airtel,Telecom,Delhi,28.7041,77.1025,6.01,33255.25,27484.66,0.82,55.79,8.3,36.6,5.69,1.95,83.15,76.88,86.56,1,1.59,1.5,12.72,-1.0,1,pollution fine,1,1,0.5377970574687909,0.4224422626061282,0.38698501841248834,0.45932967184312784,0.0,1.0,43.88015769738562,Low,"Bharti Airtel is classified as Low risk (CRI: 43.88).
+Demonstrates strong performance across key risk dimensions:
+  - Robust Financial Health.
+  - Strong ESG Profile (Environmental, Social, Governance).
+  - Positive or Neutral News Sentiment.
+  - Good Regulatory Compliance.
+  - Lower Exposure to Physical Climate Risks."
+Nestle India,FMCG,Gurgaon,28.4595,77.0266,6.75,176.81,293.03,2.89,65.14,46.43,31.78,29.4,1.79,79.69,81.81,85.42,1,0.66,0.77,23.88,0.54,0,,1,1,0.21640574552862196,0.5380828092030755,0.3708674129593478,0.3497069784206582,0.0,0.11499999999999999,33.50799323957724,Low,"Nestle India is classified as Low risk (CRI: 33.51).
+Demonstrates strong performance across key risk dimensions:
+  - Robust Financial Health.
+  - Strong ESG Profile (Environmental, Social, Governance).
+  - Positive or Neutral News Sentiment.
+  - Good Regulatory Compliance.
+  - Lower Exposure to Physical Climate Risks."
+Adani Ports,Infrastructure,Ahmedabad,23.0225,72.5714,7.43,34708.88,35194.05,4.8,77.96,41.03,28.35,15.49,1.12,80.68,80.31,80.29,1,0.68,0.96,4.34,0.46,1,governance scandal,0,1,0.5472300673894279,0.5011903957244126,0.46050867797858647,0.529234772121555,0.5,0.635,52.997318854685545,Medium,"Adani Ports is classified as Medium risk (CRI: 53.00).
+Identified areas for improvement:
+  - Moderate Financial Vulnerability.
+  - Moderate Environmental Performance.
+  - Moderate Social Issues.
+  - Some reputational concerns / neutral-to-negative sentiment.
+  - Partial regulatory disclosure/compliance concerns.
+  - Moderate Physical Climate Risk (Ahmedabad)."
+SBI,Finance,Mumbai,19.076,72.8777,6.6,954.23,1796.02,1.67,30.99,65.67,25.03,18.48,2.21,88.48,70.81,98.89,3,2.26,0.87,2.31,-0.44,1,labour unrest,1,1,0.0678154583690559,0.5842313355225777,0.43777769028282865,0.7317534859223083,0.0,0.86,44.02491733551474,Low,"SBI is classified as Low risk (CRI: 44.02).
+Demonstrates strong performance across key risk dimensions:
+  - Robust Financial Health.
+  - Strong ESG Profile (Environmental, Social, Governance).
+  - Positive or Neutral News Sentiment.
+  - Good Regulatory Compliance.
+  - Lower Exposure to Physical Climate Risks."
+TCS,Technology,Mumbai,19.076,72.8777,7.74,402.9,1380.3,2.23,74.3,27.14,17.82,17.4,2.23,80.45,87.47,80.78,0,2.11,1.49,0.32,0.4,0,,0,1,0.3429394547599994,0.6691044077614081,0.3039031437974979,0.6725085213797563,0.5,0.15,49.86412900415774,Low,"TCS is classified as Low risk (CRI: 49.86).
+Demonstrates strong performance across key risk dimensions:
+  - Robust Financial Health.
+  - Strong ESG Profile (Environmental, Social, Governance).
+  - Positive or Neutral News Sentiment.
+  - Good Regulatory Compliance.
+  - Lower Exposure to Physical Climate Risks."
+JSW Steel,Manufacturing,Mumbai,19.076,72.8777,8.36,43628.57,48609.46,3.88,79.05,11.7,37.08,17.63,2.57,79.6,32.5,87.78,3,3.9,0.97,-1.4,-0.84,1,environmental fine,1,1,0.691343695161299,0.4767145772824121,0.8719778474559305,0.9305815547002566,0.0,0.96,69.12932766173967,High,"JSW Steel is classified as High risk (CRI: 69.13).
+Key concerns include:
+  - Significant Financial Risk (e.g., high debt, low liquidity, poor revenue growth).
+  - Weak Governance (e.g., low board independence, reported corruption).
+  - Negative Reputational Risk due to recent adverse news (environmental fine).
+  - High Physical Climate Risk based on location (Mumbai)."
+Cipla,Pharmaceuticals,Mumbai,19.076,72.8777,6.73,46891.81,97682.34,4.98,33.63,52.91,26.38,22.65,2.92,90.64,83.48,97.34,1,0.67,2.66,-2.82,0.51,0,,1,1,0.8449671052631579,0.35054829720631775,0.17500801137889463,0.35541172843182506,0.0,0.1225,38.54448697844524,Low,"Cipla is classified as Low risk (CRI: 38.54).
+Demonstrates strong performance across key risk dimensions:
+  - Robust Financial Health.
+  - Strong ESG Profile (Environmental, Social, Governance).
+  - Positive or Neutral News Sentiment.
+  - Good Regulatory Compliance.
+  - Lower Exposure to Physical Climate Risks."
+IndusInd Bank,Finance,Mumbai,19.076,72.8777,8.13,952.52,1974.8,3.89,54.46,10.43,33.31,18.96,1.56,97.19,54.45,89.85,0,1.31,2.3,17.23,0.43,0,,1,1,0.1681153544968622,0.3094331820023478,0.3896600332743686,0.2655349733732362,0.0,0.14250000000000002,28.07216791090678,Low,"IndusInd Bank is classified as Low risk (CRI: 28.07).
+Demonstrates strong performance across key risk dimensions:
+  - Robust Financial Health.
+  - Strong ESG Profile (Environmental, Social, Governance).
+  - Positive or Neutral News Sentiment.
+  - Good Regulatory Compliance.
+  - Lower Exposure to Physical Climate Risks."
+Vedanta Ltd,Metals & Mining,Mumbai,19.076,72.8777,6.67,28776.66,49270.22,4.11,93.56,41.14,19.68,6.09,2.81,97.57,31.36,93.91,3,2.91,0.74,-1.24,-0.7,1,environmental fine,0,0,0.48934541714770297,0.338537427395668,0.7849406910778753,0.8571245762795983,1.0,0.925,67.38189581735269,High,"Vedanta Ltd is classified as High risk (CRI: 67.38).
+Key concerns include:
+  - Significant Financial Risk (e.g., high debt, low liquidity, poor revenue growth).
+  - Weak Governance (e.g., low board independence, reported corruption).
+  - Negative Reputational Risk due to recent adverse news (environmental fine).
+  - Regulatory non-compliance: SEBI BRSR non-compliance., Lack of TCFD disclosure."
+Aditya Birla Fashion,Retail,Mumbai,19.076,72.8777,6.88,25866.43,41801.7,3.13,35.05,68.34,39.59,22.45,1.84,79.29,82.55,93.69,0,0.77,0.91,23.22,-0.13,0,,0,1,0.46752508313734,0.4922648904436108,0.13784810213744475,0.3479203610370789,0.5,0.2825,38.87532925171466,Low,"Aditya Birla Fashion is classified as Low risk (CRI: 38.88).
+Demonstrates strong performance across key risk dimensions:
+  - Robust Financial Health.
+  - Strong ESG Profile (Environmental, Social, Governance).
+  - Positive or Neutral News Sentiment.
+  - Good Regulatory Compliance.
+  - Lower Exposure to Physical Climate Risks."
+Dr. Reddy's Labs,Pharmaceuticals,Hyderabad,17.385,78.4867,5.32,39992.1,53233.31,4.93,54.49,53.72,21.79,25.73,1.92,71.91,51.47,82.68,0,0.61,3.12,19.39,0.8,0,,1,1,0.6399306277788763,0.5921660031202318,0.5209974753783622,0.04881035689293217,0.0,0.04999999999999999,38.40063538886931,Low,"Dr. Reddy's Labs is classified as Low risk (CRI: 38.40).
+Demonstrates strong performance across key risk dimensions:
+  - Robust Financial Health.
+  - Strong ESG Profile (Environmental, Social, Governance).
+  - Positive or Neutral News Sentiment.
+  - Good Regulatory Compliance.
+  - Lower Exposure to Physical Climate Risks."
+HCL Tech,Technology,Noida,28.5355,77.391,6.7,216.24,1917.29,3.23,44.86,48.66,28.54,13.95,0.78,90.15,70.81,95.45,2,1.12,2.99,24.04,-0.66,0,,1,1,0.2704927349963855,0.579198994333302,0.39100100126787246,0.06275455927051672,0.0,0.41500000000000004,31.5295546534501,Low,"HCL Tech is classified as Low risk (CRI: 31.53).
+Demonstrates strong performance across key risk dimensions:
+  - Robust Financial Health.
+  - Strong ESG Profile (Environmental, Social, Governance).
+  - Positive or Neutral News Sentiment.
+  - Good Regulatory Compliance.
+  - Lower Exposure to Physical Climate Risks."
+Indian Oil Corp,Energy,Delhi,28.7041,77.1025,7.61,45641.8,65553.73,4.91,69.53,46.38,26.64,7.28,2.32,86.42,59.4,98.21,1,2.29,0.95,-2.62,-0.56,1,labour unrest,1,1,0.7641282459421221,0.38978862993790275,0.3264225074989158,0.7553513653350804,0.0,0.89,53.38890722520293,Medium,"Indian Oil Corp is classified as Medium risk (CRI: 53.39).
+Identified areas for improvement:
+  - Moderate Financial Vulnerability.
+  - Moderate Environmental Performance.
+  - Some reputational concerns / neutral-to-negative sentiment.
+  - Moderate Physical Climate Risk (Delhi)."
+Bajaj Finance,Finance,Pune,18.5204,73.8567,3.26,236.71,449.89,3.38,41.82,27.47,36.9,16.85,2.17,75.17,57.69,80.82,0,1.19,1.67,-4.05,0.08,0,,1,0,0.14050638810162774,0.41486998176842127,0.5071870411113069,0.5680170040299967,0.5,0.23,38.97378542199827,Low,"Bajaj Finance is classified as Low risk (CRI: 38.97).
+Demonstrates strong performance across key risk dimensions:
+  - Robust Financial Health.
+  - Strong ESG Profile (Environmental, Social, Governance).
+  - Positive or Neutral News Sentiment.
+  - Good Regulatory Compliance.
+  - Lower Exposure to Physical Climate Risks."
+United Spirits,FMCG,Bengaluru,12.9716,77.5946,4.18,533.03,1438.01,2.8,40.2,29.52,10.08,26.71,0.71,87.92,70.81,90.73,1,0.97,2.83,10.94,-0.01,1,labour dispute,1,1,0.3335282350729171,0.7502762347630221,0.36402833494502557,0.21809828638287942,0.0,0.7525,38.14200743213297,Low,"United Spirits is classified as Low risk (CRI: 38.14).
+Demonstrates strong performance across key risk dimensions:
+  - Robust Financial Health.
+  - Strong ESG Profile (Environmental, Social, Governance).
+  - Positive or Neutral News Sentiment.
+  - Good Regulatory Compliance.
+  - Lower Exposure to Physical Climate Risks."
+Grasim Industries,Diversified,Mumbai,19.076,72.8777,8.23,20936.6,45744.74,0.97,77.93,16.85,26.92,26.02,0.72,86.06,59.33,86.86,0,1.86,2.91,9.95,-0.66,0,,1,1,0.4431266744637195,0.7074386489365657,0.40250777787920144,0.311504353215312,0.0,0.41500000000000004,44.16359706037568,Low,"Grasim Industries is classified as Low risk (CRI: 44.16).
+Demonstrates strong performance across key risk dimensions:
+  - Robust Financial Health.
+  - Strong ESG Profile (Environmental, Social, Governance).
+  - Positive or Neutral News Sentiment.
+  - Good Regulatory Compliance.
+  - Lower Exposure to Physical Climate Risks."
+Zydus Lifesciences,Pharmaceuticals,Ahmedabad,23.0225,72.5714,6.73,34066.28,61370.05,2.1,94.12,44.38,17.12,7.54,0.88,77.38,70.81,83.73,1,2.11,0.86,20.27,-1.0,1,governance scandal,0,0,0.4641159354792635,0.6993295367340175,0.4723315840424984,0.5287309294800211,1.0,1.0,61.70344384755735,Medium,"Zydus Lifesciences is classified as Medium risk (CRI: 61.70).
+Identified areas for improvement:
+  - Moderate Financial Vulnerability.
+  - Moderate Social Issues.
+  - Some reputational concerns / neutral-to-negative sentiment.
+  - Partial regulatory disclosure/compliance concerns.
+  - Moderate Physical Climate Risk (Ahmedabad)."
+Siemens India,Industrial Conglomerate,Mumbai,19.076,72.8777,8.45,27083.7,75060.65,4.19,76.7,39.78,24.3,25.96,1.01,99.04,78.44,83.99,0,1.56,2.68,18.03,-0.66,0,,0,1,0.59392059192531,0.6102593685004218,0.31606650918752877,0.22831657063164734,0.5,0.41500000000000004,47.046260804898154,Low,"Siemens India is classified as Low risk (CRI: 47.05).
+Demonstrates strong performance across key risk dimensions:
+  - Robust Financial Health.
+  - Strong ESG Profile (Environmental, Social, Governance).
+  - Positive or Neutral News Sentiment.
+  - Good Regulatory Compliance.
+  - Lower Exposure to Physical Climate Risks."
