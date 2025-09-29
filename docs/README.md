@@ -4,6 +4,7 @@
 
 ---
 
+
 ## 🧭 Executive Summary
 
 The ESG Risk Intelligence Platform enables assessment of environmental, social, governance, financial, and reputational risks across a portfolio of companies.
@@ -13,6 +14,7 @@ The ESG Risk Intelligence Platform enables assessment of environmental, social, 
 - 📋 Aligned with SEBI BRSR and TCFD disclosure frameworks  
 
 ---
+
 
 ## 🧱 Solution Architecture
 
@@ -27,7 +29,9 @@ The ESG Risk Intelligence Platform enables assessment of environmental, social, 
 
 ---
 
+
 ## 📁 Repository Structure
+```text
 ESG_Risk_Intelligence/
 ├── notebooks/
 │   └── ESG_Risk_Intelligence_System.ipynb 
@@ -45,31 +49,33 @@ ESG_Risk_Intelligence/
 │       ├── company_deep_dive.png
 │       ├── industry_comparison.png
 │       └── geographical_analysis.png
-
+```
 ---
+
 
 ## ⚙️ Setup Instructions
 
 ```bash
 # Clone the repo
 git clone https://github.com/yourusername/esg-risk-intelligence-platform.git
+```
 
-# Install requirements
+## Install requirements
 ``` bash
 pip install pandas numpy scikit-learn faker
 ```
-Open ESG_Risk_Intelligence_System.ipynb in Jupyter Notebook
+- Open ESG_Risk_Intelligence_System.ipynb in Jupyter Notebook
 
-Open ESG_Risk_Intelligence.pbix in Power BI Desktop
+- Open ESG_Risk_Intelligence.pbix in Power BI Desktop
 
 ## ▶️ Run Instructions
-Generate Data – Run the notebook to create synthetic ESG data
+- **Generate Data** – Run the notebook to create synthetic ESG data
 
-Score Companies – Compute pillar scores, CRI, and risk levels
+- **Score Companies** – Compute pillar scores, CRI, and risk levels
 
-Diagnostics – Validate scoring logic and explore company-level insights
+- **Diagnostics** – Validate scoring logic and explore company-level insights
 
-Visualize – Load ESG_Risk_Scored_Output.csv into Power BI
+- **Visualize** – Load ESG_Risk_Scored_Output.csv into Power BI
 
 ## 📥 Sample Data
 
@@ -99,27 +105,33 @@ ESG Pillar Scores
 
 Narrative Risk Explanation
 
+
+
 ## 🧪 Methodology
-**Normalization** – MinMaxScaler applied to all metrics
+- **Normalization** – MinMaxScaler applied to all metrics
 
-**Materiality Weighting** – Industry-specific ESG pillar weights
+- **Materiality Weighting** – Industry-specific ESG pillar weights
 
-**Scoring** – Weighted aggregation into CRI (0–100 scale)
+- **Scoring** – Weighted aggregation into CRI (0–100 scale)
 
-**Classification** – Risk levels based on CRI thresholds
+- **Classification** – Risk levels based on CRI thresholds
 
-**Explainability** – Rule-based narrative generation per company
+- **Explainability** – Rule-based narrative generation per company
+
+
 
 ## 💼 Business Impact
-📈 Proactive portfolio monitoring for asset managers
+- 📈 Proactive portfolio monitoring for asset managers
 
-📋 Regulatory readiness (SEBI BRSR, TCFD)
+- 📋 Regulatory readiness (SEBI BRSR, TCFD)
 
-🚨 Early identification of high-risk companies
+- 🚨 Early identification of high-risk companies
 
-🤝 Stakeholder trust via explainable scoring
+- 🤝 Stakeholder trust via explainable scoring
 
-🌍 Climate overlays for geospatial risk insights
+- 🌍 Climate overlays for geospatial risk insights
+
+
 
 ## 🔁 Versioning & Audit Trail
 See docs/changelog.md for full update history.
@@ -127,10 +139,13 @@ See docs/changelog.md for full update history.
 Version	Date	Notes
 1.0	Sept 2025	Initial release with scoring engine & dashboard
 
+
 ## 🧾 Executive Briefing
 Delivered a full-stack ESG Risk Intelligence Platform using Jupyter Notebook and Power BI. Simulated and scored 30 companies across 10 industries. Enabled stakeholder-ready insights with explainable scoring, controversy tracking, and climate overlays. Designed for CXO decision-making, regulatory compliance, and portfolio risk mitigation.
 
 📄 View the full briefing: docs/executive_briefing.pdf
+
+
 
 ## 👤 Ownership & Contact
 Author: Shruti Patil Role: Solution Architect & Data Analyst – ESG Risk Intelligence
